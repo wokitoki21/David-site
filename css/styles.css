@@ -1,0 +1,107 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight: bolder;
+    padding-top: 130px;
+}
+
+h3{
+    font-family: 'MonteCarlo', cursive;
+    font-size: 30px;   
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    position: relative;
+    top: 25px; 
+}
+.cloud-1{position: absolute;
+    left: 330px;    
+
+    
+}
+
+.cloud-2{
+    position: absolute;
+    right: 350px;
+    top: 70px;
+}
+
+.cloud-3{
+    position: absolute;
+    top: 30px;
+    left: 250px;
+}
+
+.mountain{position: relative;
+    width: 700px;
+    height: 500px;
+}
+
+.prof{
+    margin-top: 30px;
+}
+
+.cube{
+    float: left;
+    width: 100px;
+    margin-right: 25px ;
+    padding-top: 20px;
+}
+.align{
+    width: 50%;
+    text-align: left;
+    margin:auto;
+    margin-bottom: 50px;
+}
+
+.mod{
+margin-top: 50px;
+margin-left: 130px;
+}
+
+.tex{
+    text-align: right;
+    width: 50%;
+    margin: auto;
+    margin-right: 650px;
+
+}
+
+.left{
+    width: 100px;
+    float: right;
+    margin-left: 25px;
+    padding-top: 25px;
+}
+
+.white1{
+    background-color: white;
+    height: 70px;
+}
+
+button{
+    background-color:darkblue;
+    color: white;
+    border-style: none;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top: 10px;
+    border-radius: 40px;
+    font-size: 15px;
+    font-family: 'MonteCarlo', cursive;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
